@@ -222,9 +222,9 @@ function Footer() {
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                    href: "mailto:contact@lasurvivance.fr",
+                                                    href: "mailto:lasurvivanceanimale@gmail.com",
                                                     className: "hover:text-primary",
-                                                    children: "contact@lasurvivance.fr"
+                                                    children: "lasurvivanceanimale@gmail.com"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/footer.tsx",
                                                     lineNumber: 61,
@@ -787,9 +787,9 @@ const dogsData = [
         breed: "Staffordshire Terrier",
         gender: "Mâle",
         location: "Les Mureaux (78)",
-        status: "Urgent",
+        status: "Adopté",
         imageUrl: "/images/kyubi-1.jpeg",
-        description: "Kyubi est un jeune chien de type Staff, âgé d'à peine 1 an, qui se trouve actuellement dans une situation d'urgence. Malgré son jeune âge, il a déjà de bonnes bases d'éducation : il connaît le assis, le couché et la commande 'à sa place'. Il est plein d'amour et n'attend que de le partager."
+        description: "Kyubi a été officiellement adopté aujourd’hui ! Ce jeune staff de 1 an a trouvé une famille aimante. Merci pour votre soutien."
     },
     {
         id: "bella",
@@ -851,11 +851,10 @@ const dogDetails = {
             "/images/kyubi-3.jpeg",
             "/images/kyubi-4.jpeg"
         ],
-        fullDescription: "Kyubi est un jeune chien de type Staff, âgé d'à peine 1 an, qui se trouve actuellement dans une situation d'urgence absolue au refuge. Malgré son jeune âge et son passé difficile, il a déjà de bonnes bases d'éducation : il connaît le assis, le couché et la commande 'à sa place'. Il est plein d'amour à donner et n'attend qu'une famille patiente pour continuer son éducation et lui offrir la vie stable qu'il mérite.",
+        fullDescription: "Kyubi a été adopté aujourd'hui 🎉. Ce jeune chien de type Staff, âgé d'à peine 1 an, a trouvé une famille aimante prête à continuer son éducation et lui offrir une vie stable et heureuse.",
         temperament: [
             "Affectueux",
             "En apprentissage",
-            "Anxiété de séparation",
             "Joueur"
         ],
         compatibility: {
@@ -867,7 +866,7 @@ const dogDetails = {
             vaccinated: true,
             neutered: true
         },
-        specialNeeds: "Famille présente et patiente, expérience avec les chiens de type molossoïde appréciée"
+        specialNeeds: "Kyubi est désormais adopté et ne nécessite plus de nouvelle famille ❤️"
     }
 };
 }),
