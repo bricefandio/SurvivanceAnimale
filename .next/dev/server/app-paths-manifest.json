@@ -1,0 +1,8 @@
+{
+  "/a-propos/page": "app/a-propos/page.js",
+  "/adopter/page": "app/adopter/page.js",
+  "/chiens/page": "app/chiens/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/page": "app/page.js",
+  "/soutenir/page": "app/soutenir/page.js"
+}
