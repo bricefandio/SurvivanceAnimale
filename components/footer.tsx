@@ -58,8 +58,8 @@ export function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <a href="mailto:contact@lasurvivance.fr" className="hover:text-primary">
-                  contact@lasurvivance.fr
+                <a href="mailto:lasurvivanceanimale@gmail.com" className="hover:text-primary">
+                  lasurvivanceanimale@gmail.com
                 </a>
               </li>
               <li className="flex items-center gap-2 text-sm text-muted-foreground">
